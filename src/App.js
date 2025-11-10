@@ -10,7 +10,7 @@ class App extends Component {
     this.state = {
       // Person object containing profile data
       Person: {
-        fullName: 'SAIDI MOHAMED',
+       fullName: 'SAIDI MOHAMED',
         bio: 'A software developer passionate about React and UI.',
         imgSrc: 'https://ozytis.fr/wp-content/uploads/2020/12/productivity-1995786_1920-1024x598.jpg', 
         profession: 'Frontend Developer',
